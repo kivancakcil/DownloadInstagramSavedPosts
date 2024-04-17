@@ -19,7 +19,7 @@ except FileNotFoundError:
         instance.login(username, password)
 
     except:
-        # If login fails, it logs in using your session ID and CSRF Token (not recommended to use with VPN!!!)
+        # If login fails, it logs in using your session ID and CSRF Token (Not recommended to use with VPN!!!)
         instance.load_session(username, {"sessionid": "your_sessionid", "csrftoken": "your_csrftoken"})
 
 # Saves your credentials in a file if you want to use them later

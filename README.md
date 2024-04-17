@@ -88,7 +88,7 @@ Then come to our `saved_posts.py` file and fill in *username*, *password*, **ses
 
 * After successfully completing all the steps you should be seeing a screen like this:
 
-![Cookies](example_cookies_screen.png)
+![Cookies](example_cookies_page.png)
 
 
 <!-- USAGE -->
@@ -131,7 +131,7 @@ Don't forget to give the project a <span style=" color: #FFBF00;">**star**</span
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->

@@ -35,6 +35,7 @@ for file in jpg_files.intersection(mp4_files):
 
 
 
+
 # If you want to delete the files directly instead of moving them to another folder, you can run this instead of the code above. 
 # (I still recommend running the code above first, just in case there are photos you might need)
 '''
