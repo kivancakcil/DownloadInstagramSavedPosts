@@ -18,9 +18,9 @@
     This project contains a set of Python script using the Instaloader library that allows Instagram users to easily download their saved posts on the platform. This project allows users to store their favorite content on Instagram on their PC and access it whenever needed. By storing posts they like or are interested in offline, users can always have special moments or inspiring content with them.
     <br/><br/>
     ·
-    <a href="https://github.com/kivancakcil/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/kivancakcil/DownloadInstagramSavedPosts/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/kivancakcil/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/kivancakcil/DownloadInstagramSavedPosts/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 <br/>
@@ -159,13 +159,13 @@ Kıvanç Akçil - kivancakcil@hotmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/kivancakcil/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/kivancakcil/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kivancakcil/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/kivancakcil/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/kivancakcil/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/kivancakcil/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kivancakcil/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/kivancakcil/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/kivancakcil/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/kivancakcil/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/kivancakcil/DownloadInstagramSavedPosts.svg?style=for-the-badge
+[contributors-url]: https://github.com/kivancakcil/DownloadInstagramSavedPosts/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kivancakcil/DownloadInstagramSavedPosts.svg?style=for-the-badge
+[forks-url]: https://github.com/kivancakcil/DownloadInstagramSavedPosts/network/members
+[stars-shield]: https://img.shields.io/github/stars/kivancakcil/DownloadInstagramSavedPosts.svg?style=for-the-badge
+[stars-url]: https://github.com/kivancakcil/DownloadInstagramSavedPosts/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kivancakcil/DownloadInstagramSavedPosts.svg?style=for-the-badge
+[issues-url]: https://github.com/kivancakcil/DownloadInstagramSavedPosts/issues
+[license-shield]: https://img.shields.io/github/license/kivancakcil/DownloadInstagramSavedPosts.svg?style=for-the-badge
+[license-url]: https://github.com/kivancakcil/DownloadInstagramSavedPosts/blob/master/LICENSE.txt
